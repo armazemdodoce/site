@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://armazemdodoce.com.br/sitemap.xml
